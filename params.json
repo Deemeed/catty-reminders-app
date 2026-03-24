@@ -86,6 +86,11 @@
       "app": "catty-reminders-app"
     },
     {
+      "login": "Psevd00",
+      "id": "astafev",
+      "app": "catty-reminders-app"
+    },
+    {
       "login": "Pyshisha",
       "id": "ryzkov",
       "app": "catty-reminders-app"
@@ -128,6 +133,21 @@
     {
       "login": "Deemeed",
       "id": "chentsov",
+      "app": "catty-reminders-app"
+    },
+    {
+      "login": "keshacheshek",
+      "id": "golosov",
+      "app": "catty-reminders-app"
+    },
+    {
+      "login": "sofiastepanova",
+      "id": "stepanova",
+      "app": "catty-reminders-app"
+    },
+    {
+      "login": "Nika34V",
+      "id": "baranova",
       "app": "catty-reminders-app"
     }
   ]
